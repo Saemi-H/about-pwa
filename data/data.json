@@ -131,6 +131,11 @@
       "color": "pink"
     },
     {
+      "title": "PWA builder - github",
+      "site": "https://github.com/pwa-builder/pwabuilder-web/blob/V2/src/assets/next-steps.md",
+      "color": "pink"
+    },
+    {
       "title": "PWA MDN 문서",
       "site": "https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps",
       "color": "pink"
