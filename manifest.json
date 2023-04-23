@@ -1,20 +1,24 @@
 {
-  "background_color": "#ffffff",
-  "description": "My First PWA app about PWA introduction",
+  "background_color": "#ba49aa",
+  "description": "PWA 팀 펫프 프론트을 위해!!!!!!!",
   "dir": "ltr",
   "display": "standalone",
-  "name": "shimmering-duckanoo-6ca465.netlify",
+  "name": "PWA 팀 펫프 프론트을 위해",
   "orientation": "any",
   "scope": "/",
-  "short_name": "shimmering-duckanoo-6ca465.netlify",
+  "short_name": "PWA 팀 펫프 프론트을 위해",
   "start_url": "/",
-  "theme_color": "#ffffff",
-  "categories": [],
+  "theme_color": "#a22727",
+  "categories": ["education", "social"],
   "screenshots": [],
   "icons": [],
   "shortcuts": [],
+  "lang": "ko",
   "display_override": [
-    "standalone"
-  ],
-  "lang": "ko"
+    "standalone",
+    "minimal-ui",
+    "fullscreen",
+    "browser",
+    "window-controls-overlay"
+  ]
 }
